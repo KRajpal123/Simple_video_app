@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Simple_video_app/static/css/main.7064deb2.css",
-    "main.js": "/Simple_video_app/static/js/main.ab749347.js",
+    "main.js": "/Simple_video_app/static/js/main.212bf8aa.js",
     "index.html": "/Simple_video_app/index.html",
     "main.7064deb2.css.map": "/Simple_video_app/static/css/main.7064deb2.css.map",
-    "main.ab749347.js.map": "/Simple_video_app/static/js/main.ab749347.js.map"
+    "main.212bf8aa.js.map": "/Simple_video_app/static/js/main.212bf8aa.js.map"
   },
   "entrypoints": [
     "static/css/main.7064deb2.css",
-    "static/js/main.ab749347.js"
+    "static/js/main.212bf8aa.js"
   ]
 }
